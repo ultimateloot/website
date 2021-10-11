@@ -82,7 +82,7 @@ export default function FAQ(): ReactElement {
 
         <div className={styles.faq__item}>
           <h3>What is the Policy Id?</h3>
-          <p>cb2908ff25b6d559a7799b3323760f8c23ed6a61f9d407e871e98c5c</p>
+          <p>f5e035683dbd453e3d769a994c584e750b60dad366ccb80639d9df2b</p>
         </div>
 
         <div className={styles.faq__item}>

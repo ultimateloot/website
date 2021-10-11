@@ -242,7 +242,7 @@ export default function Home(props: IProps) {
     { name: "Github", url: "https://github.com/ultimateloot/website" },
     {
       name: "Policy",
-      url: "https://cardanoscan.io/tokenPolicy/cb2908ff25b6d559a7799b3323760f8c23ed6a61f9d407e871e98c5c",
+      url: "https://cardanoscan.io/tokenPolicy/f5e035683dbd453e3d769a994c584e750b60dad366ccb80639d9df2b",
     },
   ];
 
