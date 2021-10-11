@@ -239,6 +239,10 @@ export default function Home(props: IProps) {
       name: "Twitter",
       url: "https://twitter.com/ultLootCNFT",
     },
+    {
+      name: "Discord",
+      url: "https://discord.gg/EYxJsPSDAN",
+    },
     { name: "Github", url: "https://github.com/ultimateloot/website" },
     {
       name: "Policy",
